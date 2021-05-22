@@ -1,6 +1,5 @@
 import math #math library
 
-
 class operation: #calculators operator
     
   def __init__ (self, inputvar,stepvar): #initalising
@@ -25,7 +24,6 @@ class operation: #calculators operator
       rounded = [round(num, 0) for num in number] #round list to no decimal places - don't know why you're not working ¬¬
       return rounded #return list
    
-      
 #main
 cal = operation(inputvar = int(input("type a number to calculate: ")),stepvar = int(input("enter number of steps: "))) # get input number and step total
 cal.function() #performs checks
