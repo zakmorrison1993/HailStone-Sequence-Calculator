@@ -2,7 +2,7 @@
 
 This is a calculator for the Hailstone Sequence. written in Python. A small but nice little script.
 
-The Hailstone Sequence is a simple algorithm that multiplies Odd numbers by 3 and adds one AND divides Even numbers by 2. 
+The Hailstone Sequence is a simple algorithm that multiplies ODD numbers by 3 and adds one AND divides EVEN numbers by 2. 
 
 
 This Project is an example for:
