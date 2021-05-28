@@ -8,7 +8,7 @@ The Hailstone Sequence is a simple algorithm that multiplies ODD numbers by 3 an
 This Project is an example for:
 
 - Basic knowledge of Simple Algorithms
-- Basic Python (OOP Language) Knowledge 
+- Basic Python (OOP Language) knowledge 
 - Basic data structure knowledge
 - Inputs and Outputs
 
